@@ -1,0 +1,20 @@
+<resources>
+    <!--  Main Activity  -->
+    <string name="app_name">TBCAcademyAndroidTask3</string>
+    <string name="profile_form_header">Enter Profile Info</string>
+    <string name="form_hint_email">Enter your Email</string>
+    <string name="form_hint_username">Enter your Username</string>
+    <string name="form_hint_first_name">Enter your First name</string>
+    <string name="form_hint_last_name">Enter your Last name</string>
+    <string name="form_hint_age">Enter your Age</string>
+    <string name="form_confirm_button">Save information</string>
+    <string name="form_clear_button">Clear information</string>
+    <string name="error_enter_all_fields">Please make sure to enter all fields</string>
+    <string name="error_username_too_small">Username has to be at least 10 or more characters</string>
+    <string name="error_bad_email_format">Please make sure to use a valid email address</string>
+    <string name="error_bad_age_format">Age should be a regular number</string>
+
+    <!--  User page Activity  -->
+    <string name="user_page_header">User Page</string>
+    <string name="back_to_main">Back to main</string>
+</resources>
